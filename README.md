@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, eu sou o Raul</h1>
 <h3 align="center">Apaixonado por análise de dados e de negócios digitais</h3>
 
+- 🔭 Atualmente estou buscando uma recolocação no mercado e migração para área de dados.
+  
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Power BI e SQL.**
 
 - 💬 Me pergunte sobre **SQL, Power BI, ETL e Excel**
